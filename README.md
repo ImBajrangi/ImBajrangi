@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/ImBajrangi?template=classic&base=header%2Cactivity%2Ccommunity&config.timezone=Asia%2FKolkata" />
+  <img src="https://metrics.lecoq.io/ImBajrangi?template=terminal&config.timezone=Asia%2FKolkata&theme=dark&base=header,activity,community,repositories&plugin.languages=true&plugin.isocalendar=true&plugin.stars=true&plugin.followup=true" />
 </p>
 
 <p align="center">
