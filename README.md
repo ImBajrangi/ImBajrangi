@@ -1,116 +1,74 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=150&section=header&text=IMBAJRANGI%20//%20FOUNDER%20%7C%20SYSTEM%20ARCHITECT&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=140&section=header&text=IMBAJRANGI%20//%20ROOT%20ACCESS&fontSize=32&fontColor=00ff99"/>
 </p>
 
-<h1 align="center">👑 Founder Mode // Root Access 💻</h1>
+<h1 align="center">💀 SYSTEM TERMINAL 💀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFAA&center=true&vCenter=true&width=900&lines=AI+Agent+Architect;Scalable+System+Builder;Full+Stack+Execution;Data+Driven+Decisions;Building+Digital+Infrastructure..." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FF99&center=true&vCenter=true&width=900&lines=AI+Agent+Architect;Full+Stack+System+Builder;Data+Science+Engine;Freelance+Execution+Mode;Building+Scalable+Intelligence..." />
 </p>
 
 ---
 
-## 🧠 SYSTEM INITIALIZATION
+## 🖥️ BOOT SEQUENCE
 
 ```bash
-> initializing founder profile...
+> booting profile...
 
-[ OK ] Vision Loaded
-[ OK ] Execution Engine Active
-[ OK ] AI Systems Running
-[ OK ] Client Infrastructure Online
-[ OK ] Scaling Mindset Confirmed
+[ OK ] Identity Loaded
+[ OK ] AI Systems Initialized
+[ OK ] Freelance Mode Activated
+[ OK ] Full Stack Environment Ready
+[ OK ] Data Science Engine Online
 
-> Access Level : ROOT
-> Mode         : FOUNDER + BUILDER
+> Access Level: ROOT
+> Status: BUILDING
 ```
-
----
-
-## 🏛 FOUNDER DASHBOARD
-
 <p align="center">
-  <img src="https://metrics.lecoq.io/ImBajrangi?template=classic&theme=dark&config.timezone=Asia%2FKolkata&base.header=true&base.activity=true&base.repositories=true&base.community=true&plugin.languages=true&plugin.languages.limit=6&plugin.isocalendar=true&plugin.stars=true&plugin.followup=true" />
+  <img src="https://metrics.lecoq.io/ImBajrangi?template=terminal&theme=dark&config.timezone=Asia%2FKolkata&base=header,activity,repositories,community&plugin.languages=true&plugin.languages.limit=8&plugin.isocalendar=true&plugin.stars=true&plugin.followup=true" />
 </p>
-
----
-
-## 📊 SYSTEM ACTIVITY RADAR
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBajrangi&theme=react-dark&bg_color=000000&color=00ffaa&line=00ffaa&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBajrangi&theme=react-dark&bg_color=000000&color=00ff99&line=00ff99&point=ffffff&hide_border=true" />
 </p>
-
----
-
-## 🐍 CONTRIBUTION MATRIX
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+$ tech --list
 
----
+> Python
+> TypeScript
+> React
+> Node.js
+> Flutter
+> FastAPI
+> Docker
+> MongoDB
+> TensorFlow
+> PyTorch
+> Git
+> Linux
 
-## ⚔️ TECH INFRASTRUCTURE
+$ ls projects/
 
-```bash
-$ stack --core
+> AI-Agent-Architecture
+> Business-Web-Systems
+> Admin-Portals
+> Data-Analytics-Engine
+> Automation-Workflows
 
-> Python          → AI Systems
-> TypeScript      → Scalable Frontend
-> Node.js         → Backend Services
-> Flutter         → Cross-Platform Apps
-> FastAPI         → API Architecture
-> Docker          → Deployment Control
-> MongoDB         → Data Layer
-> TensorFlow      → Intelligence Engine
-> GitHub Actions  → Automation
-```
+$ connect --network
 
----
+> LinkedIn    : vrindopnishad
+> Email       : vrinda.connect.us@gmail.com
+> Portfolio   : vrindopnishad.in
 
-## 🚀 ACTIVE VENTURES
+$ philosophy
 
-```bash
-$ ventures --live
-
-> AI Agent Development
-> Business Website Architectures
-> Admin Portal Systems
-> Data Analytics Engines
-> Automation & Workflow Tools
-```
-
----
-
-## 🧩 FOUNDER PHILOSOPHY
-
-```bash
-$ mindset
-
-"Code builds features.
-Systems build leverage.
-Leverage builds freedom.
-
-I architect.
-I execute.
-I scale."
-```
-
----
-
-## 🌐 NETWORK ACCESS
-
-```bash
-$ connect --secure
-
-> LinkedIn  : [Add Link]
-> Email     : [Add Email]
-> Portfolio : Launching Soon
-```
-
----
+"Systems over syntax.
+Execution over noise.
+Consistency over motivation.
+Build. Improve. Scale."
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:000000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:000000&height=100&section=footer"/>
 </p>
