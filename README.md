@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000aa,100:000000aa&height=120&section=header&text=IMBAJRANGI%20%7C%20FOUNDER%20MODE%20ACTIVE&fontSize=32&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">⚡ DIGITAL WARLORD ⚡</h1>
