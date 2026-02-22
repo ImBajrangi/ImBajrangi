@@ -10,10 +10,6 @@
 
 ---
 
-## 🧠 AI CORE STATUS
-
-```bash
-
 ## 🧠 SYSTEM STATUS
 
 ```diff
