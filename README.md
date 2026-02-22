@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/ImBajrangi?template=terminal&config.timezone=Asia%2FKolkata&theme=dark&base=header,activity,community,repositories&plugin.languages=true&plugin.isocalendar=true&plugin.stars=true&plugin.followup=true" />
+  <img src="https://metrics.lecoq.io/ImBajrangi?template=classic&config.timezone=Asia%2FKolkata&base.header=true&base.activity=true&base.community=true&base.repositories=true&base.metadata=true&plugin.languages=true&plugin.languages.limit=8&plugin.languages.sections=most-used&plugin.languages.colors=github&plugin.isocalendar=true&plugin.isocalendar.duration=full-year&plugin.traffic=true&plugin.followup=true&plugin.stars=true&plugin.stars.limit=4" />
 </p>
 
 <p align="center">
