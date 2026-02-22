@@ -43,14 +43,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBajrangi&theme=react-dark&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBajrangi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBajrangi&theme=react-dark&hide_border=true" />
-</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,node,flutter,fastapi,docker,firebase,mongodb,cpp,java,tensorflow,pytorch,git,github,linux" />
 </p>
