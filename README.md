@@ -20,6 +20,7 @@
 + Freelance Mode       : ENABLED
 + Learning Curve       : EXPONENTIAL
 - Average Developer    : NOT FOUND
+```
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,node,flutter,fastapi,docker,firebase,mongodb,cpp,java,tensorflow,pytorch,git" />
 </p>
@@ -32,5 +33,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=footer"/>
 </p>
-```
-
