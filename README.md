@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=170&section=header&text=IMBAJRANGI%20%7C%20AI%20SYSTEMS%20ARCHITECT&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1f1c2c&height=200&section=header&text=IMBAJRANGI%20%7C%20FOUNDER%20MODE%20ACTIVE&fontSize=36&fontColor=00ffaa&animation=fadeIn"/>
 </p>
 
 <h1 align="center">⚡ DIGITAL WARLORD ⚡</h1>
