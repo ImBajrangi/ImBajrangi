@@ -1,85 +1,36 @@
-<h1 align="center">Hey 👋 I'm Mr Bajrangi</h1>
-<h3 align="center">🚀 AI Developer | Data Science Student | Full Stack Builder</h3>
-
-<br>
+<h1 align="center">⚡ MR BAJRANGI // AI SYSTEM ARCHITECT ⚡</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImBajrangi&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImBajrangi&theme=github_dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI+Agents...;Designing+Digital+Empires...;Full+Stack+Warrior...;Data+Science+Mindset...;Future+Tech+Architect..." />
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 BCA (Data Science) Student  
-- 🤖 Passionate about AI Agents & Intelligent Systems  
-- 💻 Building real-world freelance projects  
-- 🌐 Currently developing full-stack business solutions  
-- 📊 Strong interest in Applied Statistics & Analytics  
-- 🔥 Goal: Build scalable AI products
-
----
-
-## 🏗️ Currently Working On
-
-- 🏢 Business Website & App Development (Real Clients)
-- 🤖 AI Agent Architecture
-- 📈 Data Analytics & Visualization Systems
-- 🛠️ Admin Portals & Backend Systems
-
----
-
-## 🛠️ Tech Arsenal
-
-### 💻 Languages
-`Python` `JavaScript` `TypeScript` `C++` `Java` `R`
-
-### 🌐 Web & App
-`React` `Next.js` `Node.js` `Flutter` `FastAPI` `Flask`
-
-### 🧠 AI / Data
-`TensorFlow` `PyTorch` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib`
-
-### ☁️ Cloud & DevOps
-`Docker` `Firebase` `Google Cloud` `Vercel` `GitHub Actions`
-
----
-
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImBajrangi&theme=github_dark&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImBajrangi&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImBajrangi&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500">
 </p>
 
 ---
 
-## 🎯 Vision
+## 🧠 SYSTEM STATUS
 
-> I don’t just write code.  
-> I build systems that solve real-world problems.
+```diff
++ AI Agent Development : ACTIVE
++ Real Client Projects : RUNNING
++ Freelance Mode       : ENABLED
++ Learning Curve       : EXPONENTIAL
+- Average Developer    : NOT FOUND
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,node,flutter,fastapi,docker,firebase,mongodb,cpp,java,tensorflow,pytorch,git" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImBajrangi&theme=tokyonight&show_icons=true&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImBajrangi&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=footer"/>
+</p>
+```
 
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
-- 🧠 Portfolio: (Add when ready)
-
----
-
-⭐ *If you like my work, consider starring my repositories.*
