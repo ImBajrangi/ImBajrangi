@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000aa,100:000000aa&height=120&section=header&text=IMBAJRANGI%20%7C%20FOUNDER%20MODE%20ACTIVE&fontSize=32&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2c2c2c&height=180&section=header&text=IMBAJRANGI%20%7C%20FOUNDER%20MODE&fontSize=40&fontColor=D4AF37"/>
 </p>
 
-<h1 align="center">⚡ DIGITAL WARLORD ⚡</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00FFCC&center=true&vCenter=true&width=1000&lines=Architecting+AI+Agents...;Building+Digital+Empires...;Freelance+Execution+Machine...;Scaling+Systems+Relentlessly...;There+Is+No+Average+Mode..." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3200&color=FFD700&center=true&vCenter=true&width=1100&lines=IMBAJRANGI;AI+Systems+Architect;Founder+%7C+Strategist+%7C+Builder;Power.+Precision.+Scale." />
 </p>
 
 ---
