@@ -1,74 +1,102 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=140&section=header&text=IMBAJRANGI%20//%20ROOT%20ACCESS&fontSize=32&fontColor=00ff99"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=MR%20BAJRANGI%20%7C%20SYSTEM%20OVERRIDE&fontSize=35&fontColor=00ffcc&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h1 align="center">💀 SYSTEM TERMINAL 💀</h1>
+<h1 align="center">⚡ DIGITAL WARLORD ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FF99&center=true&vCenter=true&width=900&lines=AI+Agent+Architect;Full+Stack+System+Builder;Data+Science+Engine;Freelance+Execution+Mode;Building+Scalable+Intelligence..." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00FFCC&center=true&vCenter=true&width=1000&lines=Architecting+AI+Agents...;Building+Digital+Empires...;Freelance+Execution+Machine...;Scaling+Systems+Relentlessly...;There+Is+No+Average+Mode..." />
 </p>
 
 ---
 
-## 🖥️ BOOT SEQUENCE
+## 🧠 SYSTEM BREACH LOG
+
+```diff
++ Identity: Founder / Hacker Hybrid
++ Status: Unstable (Productive)
++ AI Systems: Self-Evolving
++ Client Work: In Progress
++ Sleep Cycle: Deprecated
+- Comfort Zone: Not Installed
+```
+
+---
+
+## 🧬 LIVE DOMINATION STATS
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ImBajrangi&theme=matrix&no-frame=true&margin-w=15"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImBajrangi&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImBajrangi&theme=highcontrast&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 CONTRIBUTION PREDATOR
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 🛰 SYSTEM ACTIVITY SURVEILLANCE
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBajrangi&theme=react-dark&bg_color=000000&color=00ffcc&line=00ffcc&point=ffffff&hide_border=true"/>
+</p>
+
+---
+
+## ⚔️ WEAPONIZED STACK
 
 ```bash
-> booting profile...
+$ deploy --arsenal
 
-[ OK ] Identity Loaded
-[ OK ] AI Systems Initialized
-[ OK ] Freelance Mode Activated
-[ OK ] Full Stack Environment Ready
-[ OK ] Data Science Engine Online
-
-> Access Level: ROOT
-> Status: BUILDING
+> Python        → Intelligence Layer
+> TypeScript    → Interface Control
+> Node.js       → Server Dominance
+> Flutter       → Cross-Platform Expansion
+> FastAPI       → API Supremacy
+> Docker        → Deployment Autonomy
+> TensorFlow    → AI Core
+> GitHub CI/CD  → Automated Warfare
 ```
-<p align="center">
-  <img src="https://metrics.lecoq.io/ImBajrangi?template=terminal&theme=dark&config.timezone=Asia%2FKolkata&base=header,activity,repositories,community&plugin.languages=true&plugin.languages.limit=8&plugin.isocalendar=true&plugin.stars=true&plugin.followup=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBajrangi&theme=react-dark&bg_color=000000&color=00ff99&line=00ff99&point=ffffff&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-$ tech --list
 
-> Python
-> TypeScript
-> React
-> Node.js
-> Flutter
-> FastAPI
-> Docker
-> MongoDB
-> TensorFlow
-> PyTorch
-> Git
-> Linux
+---
 
-$ ls projects/
+## 🧠 FOUNDER DOCTRINE
 
-> AI-Agent-Architecture
-> Business-Web-Systems
-> Admin-Portals
-> Data-Analytics-Engine
-> Automation-Workflows
+```bash
+$ doctrine --core
 
-$ connect --network
+Build fast.
+Break limits.
+Automate everything.
+Scale or disappear.
+```
 
-> LinkedIn    : vrindopnishad
-> Email       : vrinda.connect.us@gmail.com
-> Portfolio   : vrindopnishad.in
+---
 
-$ philosophy
+## 🌐 SECURE CHANNELS
 
-"Systems over syntax.
-Execution over noise.
-Consistency over motivation.
-Build. Improve. Scale."
+```bash
+$ open_port --secure
+
+> LinkedIn  : vrindopnishad
+> Email     : vrinda.connect.us@gmail.com
+> Portfolio : https://vrindopnishad.in
+```
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:000000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=150&section=footer"/>
 </p>
