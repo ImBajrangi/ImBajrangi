@@ -1,66 +1,116 @@
-<h1 align="center">⚡ MR BAJRANGI // AI SYSTEM COMMANDER ⚡</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Agent+Architect;Full+Stack+Executioner;Data+Science+Mind;Freelance+System+Builder;Future+Tech+Dominance..." />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=150&section=header&text=IMBAJRANGI%20//%20FOUNDER%20%7C%20SYSTEM%20ARCHITECT&fontSize=30&fontColor=ffffff"/>
 </p>
 
+<h1 align="center">👑 Founder Mode // Root Access 💻</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Digital%20Empire%20Loading...&fontSize=30&fontColor=ffffff"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFAA&center=true&vCenter=true&width=900&lines=AI+Agent+Architect;Scalable+System+Builder;Full+Stack+Execution;Data+Driven+Decisions;Building+Digital+Infrastructure..." />
 </p>
 
 ---
 
-## 🧠 SYSTEM STATUS
+## 🧠 SYSTEM INITIALIZATION
 
-```diff
-+ AI Agent Development : ACTIVE
-+ Real Client Projects : RUNNING
-+ Freelance Mode       : ENABLED
-+ Learning Curve       : EXPONENTIAL
-- Average Developer    : NOT FOUND
+```bash
+> initializing founder profile...
+
+[ OK ] Vision Loaded
+[ OK ] Execution Engine Active
+[ OK ] AI Systems Running
+[ OK ] Client Infrastructure Online
+[ OK ] Scaling Mindset Confirmed
+
+> Access Level : ROOT
+> Mode         : FOUNDER + BUILDER
 ```
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImBajrangi&theme=tokyonight" />
-</p>
+
+---
+
+## 🏛 FOUNDER DASHBOARD
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImBajrangi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImBajrangi&theme=tokyonight" />
+  <img src="https://metrics.lecoq.io/ImBajrangi?template=classic&theme=dark&config.timezone=Asia%2FKolkata&base.header=true&base.activity=true&base.repositories=true&base.community=true&plugin.languages=true&plugin.languages.limit=6&plugin.isocalendar=true&plugin.stars=true&plugin.followup=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImBajrangi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImBajrangi&theme=tokyonight&utcOffset=5.5" />
-</p>
+---
+
+## 📊 SYSTEM ACTIVITY RADAR
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ImBajrangi&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBajrangi&theme=react-dark&bg_color=000000&color=00ffaa&line=00ffaa&point=ffffff&hide_border=true" />
 </p>
+
+---
+
+## 🐍 CONTRIBUTION MATRIX
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBajrangi&theme=react-dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,node,flutter,fastapi,docker,firebase,mongodb,cpp,java,tensorflow,pytorch,git,github,linux" />
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/AI%20Developer-00F7FF?style=for-the-badge&logo=OpenAI&logoColor=black"/>
-<img src="https://img.shields.io/badge/System%20Builder-302b63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Freelance%20Mode-Enabled-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-Core-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always%20Learning-100%25-orange?style=for-the-badge"/>
-</p>
+---
+
+## ⚔️ TECH INFRASTRUCTURE
+
+```bash
+$ stack --core
+
+> Python          → AI Systems
+> TypeScript      → Scalable Frontend
+> Node.js         → Backend Services
+> Flutter         → Cross-Platform Apps
+> FastAPI         → API Architecture
+> Docker          → Deployment Control
+> MongoDB         → Data Layer
+> TensorFlow      → Intelligence Engine
+> GitHub Actions  → Automation
+```
+
+---
+
+## 🚀 ACTIVE VENTURES
+
+```bash
+$ ventures --live
+
+> AI Agent Development
+> Business Website Architectures
+> Admin Portal Systems
+> Data Analytics Engines
+> Automation & Workflow Tools
+```
+
+---
+
+## 🧩 FOUNDER PHILOSOPHY
+
+```bash
+$ mindset
+
+"Code builds features.
+Systems build leverage.
+Leverage builds freedom.
+
+I architect.
+I execute.
+I scale."
+```
+
+---
+
+## 🌐 NETWORK ACCESS
+
+```bash
+$ connect --secure
+
+> LinkedIn  : [Add Link]
+> Email     : [Add Email]
+> Portfolio : Launching Soon
+```
+
+---
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/ImBajrangi?template=classic&config.timezone=Asia%2FKolkata&base.header=true&base.activity=true&base.community=true&base.repositories=true&base.metadata=true&plugin.languages=true&plugin.languages.limit=8&plugin.languages.sections=most-used&plugin.languages.colors=github&plugin.isocalendar=true&plugin.isocalendar.duration=full-year&plugin.traffic=true&plugin.followup=true&plugin.stars=true&plugin.stars.limit=4" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:000000&height=100&section=footer"/>
 </p>
