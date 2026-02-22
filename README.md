@@ -56,6 +56,11 @@
 <img src="https://img.shields.io/badge/Data%20Science-Core-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Always%20Learning-100%25-orange?style=for-the-badge"/>
 </p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/ImBajrangi?template=classic&base=header%2Cactivity%2Ccommunity&config.timezone=Asia%2FKolkata" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=120&section=footer"/>
 </p>
