@@ -61,9 +61,6 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ImBajrangi&theme=tokyonight&hide_border=true"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
