@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=170&section=header&text=IMBAJRANGI%20%7C%20AI%20SYSTEMS%20ARCHITECT&fontSize=38&fontColor=ffffff&font=Playfair+Display&animation=fadeIn"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">⚡ DIGITAL WARLORD ⚡</h1>
