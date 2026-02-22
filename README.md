@@ -37,8 +37,17 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=ImBajrangi&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBajrangi&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBajrangi&theme=tokyonight" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBajrangi&theme=react-dark&hide_border=true" />
 </p>
