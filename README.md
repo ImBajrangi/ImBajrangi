@@ -26,14 +26,6 @@
 ## 🧬 LIVE DOMINATION STATS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ImBajrangi&theme=matrix&no-frame=true&margin-w=15"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImBajrangi&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImBajrangi&theme=highcontrast&hide_border=true"/>
 </p>
 
