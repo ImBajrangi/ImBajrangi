@@ -48,10 +48,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImBajrangi&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ImBajrangi&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🛰 SYSTEM ACTIVITY SURVEILLANCE
