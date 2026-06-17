@@ -24,9 +24,13 @@
 ## 🧬 LIVE DOMINATION STATS
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImBajrangi&theme=highcontrast&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=ImBajrangi&theme=highcontrast&hide_border=true" />
 </p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImBajrangi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImBajrangi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 🐍 CONTRIBUTION PREDATOR
