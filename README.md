@@ -24,8 +24,8 @@
 ## 🧬 LIVE DOMINATION STATS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImBajrangi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImBajrangi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImBajrangi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImBajrangi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🐍 CONTRIBUTION PREDATOR
@@ -49,10 +49,16 @@
 
 ---
 
-## 🛰 SYSTEM ACTIVITY SURVEILLANCE
+## 🛰 PROBLEM SOLVING PROGRESS
+
+<h2 align="center">💻 LeetCode Progress</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBajrangi&theme=react-dark&bg_color=000000&color=00ffcc&line=00ffcc&point=ffffff&hide_border=true"/>
+  <img
+    width="50%"
+    src="https://leetcard.jacoblin.cool/Mr_Bajrangi?theme=dark&font=JetBrains+Mono"
+    alt="LeetCode Stats"
+  />
 </p>
 
 ---
