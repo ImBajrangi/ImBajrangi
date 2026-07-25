@@ -33,18 +33,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImBajrangi&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ImBajrangi&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImBajrangi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImBajrangi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImBajrangi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImBajrangi&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBajrangi&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
