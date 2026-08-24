@@ -24,8 +24,14 @@
 ## 🧬 LIVE DOMINATION STATS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImBajrangi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImBajrangi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="180"
+    src="https://github-readme-stats-fast.vercel.app/api?username=ImBajrangi&show_icons=true&theme=tokyonight"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ImBajrangi&layout=compact&theme=tokyonight"
+  />
 </p>
 
 ## 🐍 CONTRIBUTION PREDATOR
